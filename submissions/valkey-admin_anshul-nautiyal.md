@@ -90,16 +90,16 @@ I still want to improve the polish of the AI Copilot experience, strengthen vali
 **Screenshots:**
 
 **Connections Screen**  
-![Connections Screen](./assets/valkey-admin/connections.png)
+![Connections Screen](./connections.png)
 
 **AI Copilot Health Analysis**  
-![AI Copilot Health Analysis](./assets/valkey-admin/ai-copilot-health.png)
+![AI Copilot Health Analysis](./ai-copilot-health.png)
 
 **Past Investigations in Breeth Memory**  
-![Past Investigations in Breeth Memory](./assets/valkey-admin/breeth-memory.png)
+![Past Investigations in Breeth Memory](./breeth-memory.png)
 
 **Ask Valkey Recommendation Workflow**  
-![Ask Valkey Recommendation Workflow](./assets/valkey-admin/ask-valkey.png)
+![Ask Valkey Recommendation Workflow](./ask-valkey.png)
 
 ---
 
